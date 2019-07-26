@@ -19,8 +19,10 @@ https://archive.ics.uci.edu/ml/machine-learning-databases/housing/
 - Linear Regression
 - Robust Regression
 
+
 ## Notes
-Outliers are the main issue affecting a Linear Regression model.
+- Outliers are the main issue affecting a Linear Regression model.
+- RANSAC regression used to target outliers
 
 ## Resources
 
