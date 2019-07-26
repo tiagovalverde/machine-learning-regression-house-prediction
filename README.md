@@ -14,17 +14,18 @@ https://archive.ics.uci.edu/ml/machine-learning-databases/housing/
 - matplotlib
 - seaborn
 - scikit-learn
+- statsmodules
 
 ## Exploratory Data Analysis (EDA)
 - Data formatting, labeling
 - Count, mean, min, max, std
 - Pair Plots
-- 
+- Correlation Analysis
 
 ## Models
 - Linear Regression
 - Robust Regression
-- Correlation Analysis
+- Multiple Regression
 
 ## Evaluation
 - Residual Analysis
@@ -34,8 +35,6 @@ https://archive.ics.uci.edu/ml/machine-learning-databases/housing/
 ## Notes
 - Outliers are the main issue affecting a Linear Regression model.
 - RANSAC regression used to target outliers
-
-## Performance Evaluation
 
 ## Resources
 
