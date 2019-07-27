@@ -1,5 +1,6 @@
 # Predicting Boston House Price 
 
+
 ### Data set
 https://archive.ics.uci.edu/ml/machine-learning-databases/housing/
 
@@ -23,9 +24,19 @@ https://archive.ics.uci.edu/ml/machine-learning-databases/housing/
 - Correlation Analysis
 
 ## Models
-- Linear Regression
-- Robust Regression
-- Multiple Regression
+
+### Linear Regression
+### Robust Regression
+
+### Multiple Regression
+- StatsModule
+- Feature Extraction (Identify important and not important)
+	- Correlation Matrix Analysis
+	- Collinearity with Eigenvectors
+        - Standardize Variable
+	- R^2 to identify key features
+
+
 
 ## Evaluation
 - Residual Analysis
