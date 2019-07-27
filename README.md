@@ -35,7 +35,11 @@ https://archive.ics.uci.edu/ml/machine-learning-databases/housing/
 	- Collinearity with Eigenvectors
         - Standardize Variable
 	- R^2 to identify key features
-
+## Gradient Descent
+- Minimize cost function
+- MSE Cost Function
+- Cost Function Derivative
+- Update Rule 
 
 
 ## Evaluation
