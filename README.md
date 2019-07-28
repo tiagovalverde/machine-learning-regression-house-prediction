@@ -35,11 +35,24 @@ https://archive.ics.uci.edu/ml/machine-learning-databases/housing/
 	- Collinearity with Eigenvectors
         - Standardize Variable
 	- R^2 to identify key features
-## Gradient Descent
+### Gradient Descent
 - Minimize cost function
 - MSE Cost Function
 - Cost Function Derivative
 - Update Rule 
+### Regularized Method for Regression
+- Regularize coefficients
+- Penalizes the coefficients 
+- Robustness to collinearity (correlation)
+- Ridge Regression
+- Lasso Regression
+- Elastic Net Regression
+### Polynomial Regression
+- Using linear models trained on non-linear functoions
+- Trandformation of higher degrees functions to linear functions
+
+
+
 
 
 ## Evaluation
