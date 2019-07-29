@@ -35,11 +35,13 @@ https://archive.ics.uci.edu/ml/machine-learning-databases/housing/
 	- Collinearity with Eigenvectors
         - Standardize Variable
 	- R^2 to identify key features
+
 ### Gradient Descent
 - Minimize cost function
 - MSE Cost Function
 - Cost Function Derivative
 - Update Rule 
+
 ### Regularized Method for Regression
 - Regularize coefficients
 - Penalizes the coefficients 
@@ -47,18 +49,31 @@ https://archive.ics.uci.edu/ml/machine-learning-databases/housing/
 - Ridge Regression
 - Lasso Regression
 - Elastic Net Regression
+
 ### Polynomial Regression
 - Using linear models trained on non-linear functoions
 - Trandformation of higher degrees functions to linear functions
 
+### Non-Linear Relationships
+- Decision Trees
+- Random Forest (Ensemble)
+- Ada Boost (Ensemble)
+- Feature IMmportance Review
 
 
+### Pre-Processing Data
+- Standardization
+- Mean Removal
+- MinMax
+- Scaling attributes to a range
+- Update attribute to binary
 
 
 ## Evaluation
 - Residual Analysis
 - Mean Squared Error
 - Coefficient of Determination
+- R2 Score
 
 ## Notes
 - Outliers are the main issue affecting a Linear Regression model.
