@@ -1,5 +1,4 @@
-# Predicting Boston House Price 
-
+# Predicting House Prices 
 
 ### Data set
 https://archive.ics.uci.edu/ml/machine-learning-databases/housing/
@@ -67,6 +66,7 @@ https://archive.ics.uci.edu/ml/machine-learning-databases/housing/
 - MinMax
 - Scaling attributes to a range
 - Update attribute to binary
+- Categorical attributes
 
 
 ## Evaluation
