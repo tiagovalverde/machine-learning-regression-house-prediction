@@ -26,7 +26,6 @@ https://archive.ics.uci.edu/ml/machine-learning-databases/housing/
 
 ### Linear Regression
 ### Robust Regression
-
 ### Multiple Regression
 - StatsModule
 - Feature Extraction (Identify important and not important)
@@ -57,7 +56,7 @@ https://archive.ics.uci.edu/ml/machine-learning-databases/housing/
 - Decision Trees
 - Random Forest (Ensemble)
 - Ada Boost (Ensemble)
-- Feature IMmportance Review
+- Feature Importance Review
 
 
 ### Pre-Processing Data
@@ -67,6 +66,21 @@ https://archive.ics.uci.edu/ml/machine-learning-databases/housing/
 - Scaling attributes to a range
 - Update attribute to binary
 - Categorical attributes
+
+### Variance Bias
+- Validation Curve
+	- validation and training score vs varying hyperparameters
+	- underfit vs overfitting based on hyperparameters
+	- Estimators (bias, variance, noise)
+- Learning Curve
+	- validation and training score vs number of training samples
+
+### Cross Validation
+- holdout method CV
+- k-fold CV
+- Stratified k-fold
+- Metrics
+- Mean Score and Std deviation 
 
 
 ## Evaluation
